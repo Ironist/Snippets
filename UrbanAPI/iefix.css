@@ -1,0 +1,60 @@
+body
+{
+	text-align: center;
+}
+
+div.container
+{
+	width: 885px;
+	text-align: left;
+}
+
+div.cardDiv
+{
+	float: none;
+	display: inline;
+}
+
+h3.c
+{
+        background: #a93602;
+}
+
+h3.r
+{
+        background: #f3a603;
+}
+
+h3.u
+{
+        background: #666666;
+}
+
+
+table.marketInfo
+{
+	width: 670px;
+}
+
+table.marketInfo td.c
+{
+        background: #a93602;
+}
+
+table.marketInfo td.r
+{
+        background: #f3a603;
+}
+
+table.marketInfo td.u
+{
+        background: #666666;
+}
+
+.clanBig
+{
+	font-size: x-small;
+	width: 110px;
+}
+
+
